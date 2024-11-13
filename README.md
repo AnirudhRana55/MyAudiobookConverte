@@ -1,33 +1,33 @@
 # PDF to Audiobook Converter
-A simple PDF to Audiobook Converter web app using Python and Streamlit.
+A straightforward web application that converts PDF files into audiobooks, developed using Python and Streamlit.
 
 ![Streamlit PDF to Audiobook Converter](https://github.com/user-attachments/assets/e55f2fa1-79c6-406f-b3fb-2b2c00229979)
 
 
-This app allows users to:
+This app enables users to:
 
-*   Upload PDF files via a drag-and-drop interface.
-*   Generate an MP3 audiobook from the uploaded PDF.
-*   Download the generated MP3 file once the conversion is complete.
+* Upload PDF files using a drag-and-drop interface.
+* Convert the uploaded PDF into an MP3 audiobook.
+* Download the generated MP3 file after the conversion is finished.
 
-**The Tools and Modules**
+**The Tools and Modules used include**
 -------------------------
 
-To build this app, we use:
+To develop this app, we utilize:
 
-*   **Streamlit** for the web interface.
-*   **pdfplumber** to extract text from PDF files.
-*   **pyttsx3** for text-to-speech conversion, which runs offline.
-*   **Pathlib** to handle file paths and ensure everything is saved correctly.
-
-**How to Run**
+* **Streamlit** for creating the web interface.
+* **pdfplumber** to extract text from PDF documents.
+* **pyttsx3** for offline text-to-speech conversion.
+* **Pathlib** to manage file paths and ensure proper file saving.
+  
+**Steps to Run**
 -------------------------
 
 *   Clone the app:
 `git clone https://github.com/AnirudhRana55/MyAudiobookConverter.git`
-*   Install required modules:
+*   Install required libraries:
 `pip install streamlit pyttsx3 pdfplumber`
 *   Run the app:
 `streamlit run app.py`
 
-For full tutorial, you read the [**How to Create an Audiobook App Using Python and Streamlit**](https://walterpinem.com/python-streamlit-audiobook-app/ "How to Create an Audiobook App Using Python and Streamlit").
+
