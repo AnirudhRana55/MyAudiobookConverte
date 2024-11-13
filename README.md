@@ -10,7 +10,7 @@ This app enables users to:
 * Convert the uploaded PDF into an MP3 audiobook.
 * Download the generated MP3 file after the conversion is finished.
 
-**The Tools and Modules used include**
+**The Tools and Modules used**
 -------------------------
 
 To develop this app, we utilize:
