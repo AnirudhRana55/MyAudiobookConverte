@@ -24,7 +24,7 @@ To build this app, we use:
 -------------------------
 
 *   Clone the app:
-`git clone https://github.com/walterpinem/PDF-to-Audiobook-Converter.git`
+`git clone https://github.com/AnirudhRana55/MyAudiobookConverter.git`
 *   Install required modules:
 `pip install streamlit pyttsx3 pdfplumber`
 *   Run the app:
